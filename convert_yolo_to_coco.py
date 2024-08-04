@@ -3,9 +3,9 @@ import json
 from PIL import Image
 
 # 配置路径
-images_dir = r'/Dataset/images/val'  # 这是图片文件夹路径
-labels_dir = r'/Dataset/labels/val'  # 这是数据集标注文件文件夹路径
-output_json_path = 'yolov5/annotations1.json'  # 这是转换后保存json文件路径已经名字
+images_dir = r'/Dataset/images/val' 
+labels_dir = r'/Dataset/labels/val' 
+output_json_path = 'yolov5/annotations1.json'  
 
 
 categories = [
