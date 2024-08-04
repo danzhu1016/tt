@@ -1,0 +1,6 @@
+train: C:\yolov5\Dataset\images\train
+val: C:\yolov5\Dataset\images\val
+test: C:\yolov5\Dataset\images\val
+
+nc: 17
+names: ['Plastic Bottle', 'Face Mask', 'PaperBag', 'Plastic Cup', 'Paper Cup', 'Cardboard', 'Peel', 'Cans', 'Plastic Wrapper', 'Paperboard', 'Styrofoam', 'Tetra Pack', 'Colored Glass Bottles', 'Plastic Bag', 'Rags', 'Pile of Leaves', 'Glass Bottle']
